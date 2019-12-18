@@ -15,7 +15,7 @@
     "url": "git+https://github.com/totalpave/country.git"
   },
   "author": "norman.breau@totalpave.com",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/totalpave/country/issues"
   },
