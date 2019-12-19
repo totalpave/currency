@@ -1,6 +1,6 @@
 {
   "name": "@totalpave/currency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/api.js",
   "scripts": {
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/totalpave/country.git"
+    "url": "git+https://github.com/totalpave/currency.git"
   },
   "author": "norman.breau@totalpave.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/totalpave/country/issues"
+    "url": "https://github.com/totalpave/currency/issues"
   },
-  "homepage": "https://github.com/totalpave/country#readme",
+  "homepage": "https://github.com/totalpave/currency#readme",
   "devDependencies": {
     "@totalpave/eslint-plugin": "2.3.2",
     "@typescript-eslint/eslint-plugin": "2.12.0",
