@@ -1,7 +1,7 @@
 import { ICurrency } from "./ICurrency";
 import {Currency} from './Currency';
 
-export const currencies: Array<ICurrency> = [
+export let currencies: Array<ICurrency> = [
     {
         name: "Afghnai",
         code: Currency.AFGHANI
