@@ -1,8 +1,11 @@
 {
   "name": "@totalpave/currency",
-  "version": "1.0.4",
-  "description": "",
+  "version": "2.0.0-dev",
+  "description": "Currency enumeration and types",
   "main": "lib/api.js",
+  "publishConfig": {
+    "registry": "https://registry.totalpave.com:48731"
+  },
   "scripts": {
     "build": "npm run-script lint && tsc",
     "lint": "node --max_old_space_size=6144 ./node_modules/eslint/bin/eslint.js --ext .ts '?(src|spec)/**/*.ts' --cache",
@@ -21,14 +24,15 @@
   },
   "homepage": "https://github.com/totalpave/currency#readme",
   "devDependencies": {
-    "@totalpave/eslint-plugin": "4.0.0",
-    "@typescript-eslint/eslint-plugin": "4.3.0",
-    "@typescript-eslint/parser": "4.3.0",
-    "eslint": "7.10.0",
-    "typedoc": "0.19.2",
-    "typescript": "4.0.3"
+    "@totalpave/eslint-plugin": "5.1.0",
+    "@typescript-eslint/eslint-plugin": "4.30.0",
+    "@typescript-eslint/parser": "4.30.0",
+    "eslint": "7.32.0",
+    "typedoc": "0.21.9",
+    "typedoc-plugin-markdown": "3.10.4",
+    "typescript": "4.3.5"
   },
   "dependencies": {
-    "@types/node": "12.12.62"
+    "@types/node": "16.7.10"
   }
 }
