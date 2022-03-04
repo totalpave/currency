@@ -1,6 +1,6 @@
 {
   "name": "@totalpave/currency",
-  "version": "2.0.0-dev",
+  "version": "2.0.0",
   "description": "Currency enumeration and types",
   "main": "lib/api.js",
   "publishConfig": {
