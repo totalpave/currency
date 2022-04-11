@@ -1,6 +1,6 @@
-[@totalpave/currency - v2.0.0](README.md) / Exports
+[@totalpave/currency - v2.0.1](README.md) / Exports
 
-# @totalpave/currency - v2.0.0
+# @totalpave/currency - v2.0.1
 
 ## Table of contents
 
@@ -34,4 +34,4 @@ Renames and re-exports [currencies](modules.md#currencies)
 
 #### Defined in
 
-[currencies.ts:4](https://github.com/totalpave/currency/blob/7a27730/src/currencies.ts#L4)
+[currencies.ts:4](https://github.com/totalpave/currency/blob/981f9f6/src/currencies.ts#L4)

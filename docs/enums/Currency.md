@@ -1,4 +1,4 @@
-[@totalpave/currency - v2.0.0](../README.md) / [Exports](../modules.md) / Currency
+[@totalpave/currency - v2.0.1](../README.md) / [Exports](../modules.md) / Currency
 
 # Enumeration: Currency
 
@@ -180,7 +180,7 @@
 
 #### Defined in
 
-[Currency.ts:104](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L104)
+[Currency.ts:104](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L104)
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:3](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L3)
+[Currency.ts:3](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L3)
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:5](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L5)
+[Currency.ts:5](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L5)
 
 ___
 
@@ -210,7 +210,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:10](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L10)
+[Currency.ts:10](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L10)
 
 ___
 
@@ -220,7 +220,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:11](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L11)
+[Currency.ts:11](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L11)
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:12](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L12)
+[Currency.ts:12](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L12)
 
 ___
 
@@ -240,7 +240,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:13](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L13)
+[Currency.ts:13](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L13)
 
 ___
 
@@ -250,7 +250,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:14](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L14)
+[Currency.ts:14](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L14)
 
 ___
 
@@ -260,7 +260,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:15](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L15)
+[Currency.ts:15](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L15)
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:16](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L16)
+[Currency.ts:16](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L16)
 
 ___
 
@@ -280,7 +280,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:150](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L150)
+[Currency.ts:150](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L150)
 
 ___
 
@@ -290,7 +290,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:117](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L117)
+[Currency.ts:117](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L117)
 
 ___
 
@@ -300,7 +300,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:18](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L18)
+[Currency.ts:18](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L18)
 
 ___
 
@@ -310,7 +310,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:19](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L19)
+[Currency.ts:19](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L19)
 
 ___
 
@@ -320,7 +320,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:20](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L20)
+[Currency.ts:20](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L20)
 
 ___
 
@@ -330,7 +330,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:22](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L22)
+[Currency.ts:22](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L22)
 
 ___
 
@@ -340,7 +340,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:163](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L163)
+[Currency.ts:163](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L163)
 
 ___
 
@@ -350,7 +350,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:25](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L25)
+[Currency.ts:25](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L25)
 
 ___
 
@@ -360,7 +360,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:30](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L30)
+[Currency.ts:30](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L30)
 
 ___
 
@@ -370,7 +370,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:31](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L31)
+[Currency.ts:31](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L31)
 
 ___
 
@@ -380,7 +380,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:32](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L32)
+[Currency.ts:32](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L32)
 
 ___
 
@@ -390,7 +390,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:33](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L33)
+[Currency.ts:33](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L33)
 
 ___
 
@@ -400,7 +400,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:34](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L34)
+[Currency.ts:34](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L34)
 
 ___
 
@@ -410,7 +410,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:36](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L36)
+[Currency.ts:36](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L36)
 
 ___
 
@@ -420,7 +420,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:37](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L37)
+[Currency.ts:37](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L37)
 
 ___
 
@@ -430,7 +430,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:21](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L21)
+[Currency.ts:21](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L21)
 
 ___
 
@@ -440,7 +440,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:57](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L57)
+[Currency.ts:57](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L57)
 
 ___
 
@@ -450,7 +450,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:62](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L62)
+[Currency.ts:62](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L62)
 
 ___
 
@@ -460,7 +460,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:39](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L39)
+[Currency.ts:39](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L39)
 
 ___
 
@@ -470,7 +470,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:41](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L41)
+[Currency.ts:41](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L41)
 
 ___
 
@@ -480,7 +480,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:43](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L43)
+[Currency.ts:43](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L43)
 
 ___
 
@@ -490,7 +490,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:44](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L44)
+[Currency.ts:44](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L44)
 
 ___
 
@@ -500,7 +500,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:27](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L27)
+[Currency.ts:27](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L27)
 
 ___
 
@@ -510,7 +510,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:114](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L114)
+[Currency.ts:114](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L114)
 
 ___
 
@@ -520,7 +520,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:46](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L46)
+[Currency.ts:46](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L46)
 
 ___
 
@@ -530,7 +530,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:49](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L49)
+[Currency.ts:49](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L49)
 
 ___
 
@@ -540,7 +540,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:51](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L51)
+[Currency.ts:51](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L51)
 
 ___
 
@@ -550,7 +550,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:63](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L63)
+[Currency.ts:63](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L63)
 
 ___
 
@@ -560,7 +560,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:52](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L52)
+[Currency.ts:52](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L52)
 
 ___
 
@@ -570,7 +570,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:97](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L97)
+[Currency.ts:97](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L97)
 
 ___
 
@@ -580,7 +580,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:53](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L53)
+[Currency.ts:53](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L53)
 
 ___
 
@@ -590,7 +590,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:129](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L129)
+[Currency.ts:129](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L129)
 
 ___
 
@@ -600,7 +600,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:54](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L54)
+[Currency.ts:54](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L54)
 
 ___
 
@@ -610,7 +610,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:164](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L164)
+[Currency.ts:164](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L164)
 
 ___
 
@@ -620,7 +620,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:9](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L9)
+[Currency.ts:9](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L9)
 
 ___
 
@@ -630,7 +630,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:55](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L55)
+[Currency.ts:55](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L55)
 
 ___
 
@@ -640,7 +640,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:56](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L56)
+[Currency.ts:56](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L56)
 
 ___
 
@@ -650,7 +650,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:59](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L59)
+[Currency.ts:59](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L59)
 
 ___
 
@@ -660,7 +660,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:7](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L7)
+[Currency.ts:7](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L7)
 
 ___
 
@@ -670,7 +670,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:60](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L60)
+[Currency.ts:60](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L60)
 
 ___
 
@@ -680,7 +680,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:61](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L61)
+[Currency.ts:61](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L61)
 
 ___
 
@@ -690,7 +690,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:74](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L74)
+[Currency.ts:74](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L74)
 
 ___
 
@@ -700,7 +700,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:65](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L65)
+[Currency.ts:65](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L65)
 
 ___
 
@@ -710,7 +710,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:66](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L66)
+[Currency.ts:66](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L66)
 
 ___
 
@@ -720,7 +720,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:71](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L71)
+[Currency.ts:71](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L71)
 
 ___
 
@@ -730,7 +730,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:119](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L119)
+[Currency.ts:119](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L119)
 
 ___
 
@@ -740,7 +740,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:69](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L69)
+[Currency.ts:69](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L69)
 
 ___
 
@@ -750,7 +750,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:70](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L70)
+[Currency.ts:70](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L70)
 
 ___
 
@@ -760,7 +760,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:73](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L73)
+[Currency.ts:73](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L73)
 
 ___
 
@@ -770,7 +770,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:156](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L156)
+[Currency.ts:156](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L156)
 
 ___
 
@@ -780,7 +780,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:75](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L75)
+[Currency.ts:75](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L75)
 
 ___
 
@@ -790,7 +790,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:24](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L24)
+[Currency.ts:24](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L24)
 
 ___
 
@@ -800,7 +800,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:78](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L78)
+[Currency.ts:78](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L78)
 
 ___
 
@@ -810,7 +810,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:79](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L79)
+[Currency.ts:79](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L79)
 
 ___
 
@@ -820,7 +820,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:81](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L81)
+[Currency.ts:81](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L81)
 
 ___
 
@@ -830,7 +830,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:83](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L83)
+[Currency.ts:83](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L83)
 
 ___
 
@@ -840,7 +840,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:84](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L84)
+[Currency.ts:84](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L84)
 
 ___
 
@@ -850,7 +850,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:118](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L118)
+[Currency.ts:118](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L118)
 
 ___
 
@@ -860,7 +860,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:89](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L89)
+[Currency.ts:89](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L89)
 
 ___
 
@@ -870,7 +870,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:47](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L47)
+[Currency.ts:47](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L47)
 
 ___
 
@@ -880,7 +880,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:87](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L87)
+[Currency.ts:87](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L87)
 
 ___
 
@@ -890,7 +890,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:99](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L99)
+[Currency.ts:99](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L99)
 
 ___
 
@@ -900,7 +900,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:8](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L8)
+[Currency.ts:8](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L8)
 
 ___
 
@@ -910,7 +910,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:111](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L111)
+[Currency.ts:111](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L111)
 
 ___
 
@@ -920,7 +920,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:64](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L64)
+[Currency.ts:64](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L64)
 
 ___
 
@@ -930,7 +930,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:90](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L90)
+[Currency.ts:90](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L90)
 
 ___
 
@@ -940,7 +940,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:4](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L4)
+[Currency.ts:4](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L4)
 
 ___
 
@@ -950,7 +950,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:72](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L72)
+[Currency.ts:72](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L72)
 
 ___
 
@@ -960,7 +960,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:133](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L133)
+[Currency.ts:133](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L133)
 
 ___
 
@@ -970,7 +970,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:93](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L93)
+[Currency.ts:93](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L93)
 
 ___
 
@@ -980,7 +980,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:94](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L94)
+[Currency.ts:94](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L94)
 
 ___
 
@@ -990,7 +990,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:142](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L142)
+[Currency.ts:142](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L142)
 
 ___
 
@@ -1000,7 +1000,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:91](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L91)
+[Currency.ts:91](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L91)
 
 ___
 
@@ -1010,7 +1010,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:98](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L98)
+[Currency.ts:98](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L98)
 
 ___
 
@@ -1020,7 +1020,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:100](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L100)
+[Currency.ts:100](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L100)
 
 ___
 
@@ -1030,7 +1030,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:103](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L103)
+[Currency.ts:103](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L103)
 
 ___
 
@@ -1040,7 +1040,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:105](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L105)
+[Currency.ts:105](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L105)
 
 ___
 
@@ -1050,7 +1050,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:106](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L106)
+[Currency.ts:106](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L106)
 
 ___
 
@@ -1060,7 +1060,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:107](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L107)
+[Currency.ts:107](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L107)
 
 ___
 
@@ -1070,7 +1070,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:109](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L109)
+[Currency.ts:109](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L109)
 
 ___
 
@@ -1080,7 +1080,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:110](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L110)
+[Currency.ts:110](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L110)
 
 ___
 
@@ -1090,7 +1090,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:26](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L26)
+[Currency.ts:26](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L26)
 
 ___
 
@@ -1100,7 +1100,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:58](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L58)
+[Currency.ts:58](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L58)
 
 ___
 
@@ -1110,7 +1110,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:112](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L112)
+[Currency.ts:112](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L112)
 
 ___
 
@@ -1120,7 +1120,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:113](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L113)
+[Currency.ts:113](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L113)
 
 ___
 
@@ -1130,7 +1130,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:50](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L50)
+[Currency.ts:50](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L50)
 
 ___
 
@@ -1140,7 +1140,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:80](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L80)
+[Currency.ts:80](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L80)
 
 ___
 
@@ -1150,7 +1150,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:147](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L147)
+[Currency.ts:147](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L147)
 
 ___
 
@@ -1160,7 +1160,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:45](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L45)
+[Currency.ts:45](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L45)
 
 ___
 
@@ -1170,7 +1170,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:23](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L23)
+[Currency.ts:23](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L23)
 
 ___
 
@@ -1180,7 +1180,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:85](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L85)
+[Currency.ts:85](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L85)
 
 ___
 
@@ -1190,7 +1190,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:29](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L29)
+[Currency.ts:29](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L29)
 
 ___
 
@@ -1200,7 +1200,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:120](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L120)
+[Currency.ts:120](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L120)
 
 ___
 
@@ -1210,7 +1210,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:102](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L102)
+[Currency.ts:102](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L102)
 
 ___
 
@@ -1220,7 +1220,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:151](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L151)
+[Currency.ts:151](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L151)
 
 ___
 
@@ -1230,7 +1230,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:116](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L116)
+[Currency.ts:116](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L116)
 
 ___
 
@@ -1240,7 +1240,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:96](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L96)
+[Currency.ts:96](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L96)
 
 ___
 
@@ -1250,7 +1250,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:48](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L48)
+[Currency.ts:48](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L48)
 
 ___
 
@@ -1260,7 +1260,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:160](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L160)
+[Currency.ts:160](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L160)
 
 ___
 
@@ -1270,7 +1270,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:121](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L121)
+[Currency.ts:121](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L121)
 
 ___
 
@@ -1280,7 +1280,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:68](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L68)
+[Currency.ts:68](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L68)
 
 ___
 
@@ -1290,7 +1290,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:28](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L28)
+[Currency.ts:28](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L28)
 
 ___
 
@@ -1300,7 +1300,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:123](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L123)
+[Currency.ts:123](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L123)
 
 ___
 
@@ -1310,7 +1310,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:67](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L67)
+[Currency.ts:67](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L67)
 
 ___
 
@@ -1320,7 +1320,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:92](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L92)
+[Currency.ts:92](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L92)
 
 ___
 
@@ -1330,7 +1330,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:115](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L115)
+[Currency.ts:115](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L115)
 
 ___
 
@@ -1340,7 +1340,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:35](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L35)
+[Currency.ts:35](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L35)
 
 ___
 
@@ -1350,7 +1350,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:124](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L124)
+[Currency.ts:124](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L124)
 
 ___
 
@@ -1360,7 +1360,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:101](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L101)
+[Currency.ts:101](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L101)
 
 ___
 
@@ -1370,7 +1370,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:76](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L76)
+[Currency.ts:76](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L76)
 
 ___
 
@@ -1380,7 +1380,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:125](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L125)
+[Currency.ts:125](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L125)
 
 ___
 
@@ -1390,7 +1390,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:126](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L126)
+[Currency.ts:126](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L126)
 
 ___
 
@@ -1400,7 +1400,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:127](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L127)
+[Currency.ts:127](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L127)
 
 ___
 
@@ -1410,7 +1410,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:130](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L130)
+[Currency.ts:130](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L130)
 
 ___
 
@@ -1420,7 +1420,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:77](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L77)
+[Currency.ts:77](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L77)
 
 ___
 
@@ -1430,7 +1430,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:131](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L131)
+[Currency.ts:131](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L131)
 
 ___
 
@@ -1440,7 +1440,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:132](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L132)
+[Currency.ts:132](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L132)
 
 ___
 
@@ -1450,7 +1450,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:134](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L134)
+[Currency.ts:134](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L134)
 
 ___
 
@@ -1460,7 +1460,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:136](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L136)
+[Currency.ts:136](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L136)
 
 ___
 
@@ -1470,7 +1470,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:88](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L88)
+[Currency.ts:88](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L88)
 
 ___
 
@@ -1480,7 +1480,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:137](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L137)
+[Currency.ts:137](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L137)
 
 ___
 
@@ -1490,7 +1490,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:148](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L148)
+[Currency.ts:148](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L148)
 
 ___
 
@@ -1500,7 +1500,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:138](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L138)
+[Currency.ts:138](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L138)
 
 ___
 
@@ -1510,7 +1510,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:139](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L139)
+[Currency.ts:139](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L139)
 
 ___
 
@@ -1520,7 +1520,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:135](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L135)
+[Currency.ts:135](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L135)
 
 ___
 
@@ -1530,7 +1530,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:140](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L140)
+[Currency.ts:140](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L140)
 
 ___
 
@@ -1540,7 +1540,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:141](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L141)
+[Currency.ts:141](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L141)
 
 ___
 
@@ -1550,7 +1550,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:143](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L143)
+[Currency.ts:143](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L143)
 
 ___
 
@@ -1560,7 +1560,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:95](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L95)
+[Currency.ts:95](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L95)
 
 ___
 
@@ -1570,7 +1570,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:146](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L146)
+[Currency.ts:146](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L146)
 
 ___
 
@@ -1580,7 +1580,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:17](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L17)
+[Currency.ts:17](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L17)
 
 ___
 
@@ -1590,7 +1590,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:128](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L128)
+[Currency.ts:128](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L128)
 
 ___
 
@@ -1600,7 +1600,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:149](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L149)
+[Currency.ts:149](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L149)
 
 ___
 
@@ -1610,7 +1610,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:152](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L152)
+[Currency.ts:152](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L152)
 
 ___
 
@@ -1620,7 +1620,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:108](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L108)
+[Currency.ts:108](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L108)
 
 ___
 
@@ -1630,7 +1630,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:153](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L153)
+[Currency.ts:153](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L153)
 
 ___
 
@@ -1640,7 +1640,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:154](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L154)
+[Currency.ts:154](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L154)
 
 ___
 
@@ -1650,7 +1650,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:157](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L157)
+[Currency.ts:157](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L157)
 
 ___
 
@@ -1660,7 +1660,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:155](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L155)
+[Currency.ts:155](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L155)
 
 ___
 
@@ -1670,7 +1670,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:38](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L38)
+[Currency.ts:38](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L38)
 
 ___
 
@@ -1680,7 +1680,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:42](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L42)
+[Currency.ts:42](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L42)
 
 ___
 
@@ -1690,7 +1690,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:159](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L159)
+[Currency.ts:159](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L159)
 
 ___
 
@@ -1700,7 +1700,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:6](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L6)
+[Currency.ts:6](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L6)
 
 ___
 
@@ -1710,7 +1710,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:158](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L158)
+[Currency.ts:158](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L158)
 
 ___
 
@@ -1720,7 +1720,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:161](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L161)
+[Currency.ts:161](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L161)
 
 ___
 
@@ -1730,7 +1730,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:162](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L162)
+[Currency.ts:162](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L162)
 
 ___
 
@@ -1740,7 +1740,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:144](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L144)
+[Currency.ts:144](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L144)
 
 ___
 
@@ -1750,7 +1750,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:145](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L145)
+[Currency.ts:145](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L145)
 
 ___
 
@@ -1760,7 +1760,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:86](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L86)
+[Currency.ts:86](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L86)
 
 ___
 
@@ -1770,7 +1770,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:165](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L165)
+[Currency.ts:165](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L165)
 
 ___
 
@@ -1780,7 +1780,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:82](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L82)
+[Currency.ts:82](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L82)
 
 ___
 
@@ -1790,7 +1790,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:40](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L40)
+[Currency.ts:40](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L40)
 
 ___
 
@@ -1800,7 +1800,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:166](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L166)
+[Currency.ts:166](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L166)
 
 ___
 
@@ -1810,7 +1810,7 @@ ___
 
 #### Defined in
 
-[Currency.ts:167](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L167)
+[Currency.ts:167](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L167)
 
 ___
 
@@ -1820,4 +1820,4 @@ ___
 
 #### Defined in
 
-[Currency.ts:122](https://github.com/totalpave/currency/blob/7a27730/src/Currency.ts#L122)
+[Currency.ts:122](https://github.com/totalpave/currency/blob/981f9f6/src/Currency.ts#L122)
