@@ -1,1 +1,1 @@
-@totalpave/currency - v2.0.1 / [Exports](modules.md)
+@totalpave/currency - v2.0.2 / [Exports](modules.md)
