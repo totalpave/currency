@@ -1,7 +1,7 @@
 import { ICurrency } from "./ICurrency";
 import {Currency} from './Currency';
 
-export let currencies: Array<ICurrency> = [
+export let currencies: ICurrency[] = [
     {
         name: "Afghnai",
         code: Currency.AFGHANI
