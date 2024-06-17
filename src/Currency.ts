@@ -1,4 +1,5 @@
 
+/** @deprecated See @totalpave/interfaces Currency */
 export enum Currency {
     AFGHANI                 = 'AFN',
     LEK                     = 'ALL',
